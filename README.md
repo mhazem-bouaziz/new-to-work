@@ -15,7 +15,8 @@ This led me to build a solution: **GitLab Cloner**. This application automatical
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](assets\blackmode.png)
+![App Screenshot](assets\lightmode.png)
 
 > **Note**: A screenshot of the app interface can be added once the application is running.
 
