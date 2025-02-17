@@ -1,0 +1,39 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+*.env/
+
+# IDEs and text editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# PyQt5-related files (if generated during build)
+*.ui
+*.pyc
+
+# dotenv environment variable file (sensitive)
+.env
+
+# Log files
+*.log
+
+# GitLab Cloner configuration files (optional)
+config.py
+*.config
+
+# OS-specific files (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Other system-specific files
+*.bak
+*.tmp
